@@ -1,5 +1,5 @@
 # Perceptron-Algorithm
-Implementation of Perceptron Algorithm
+Implementation of Perceptron Algorithm to separate the following data (given in the file data.csv).
 
 ### Before Implementation
 
