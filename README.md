@@ -3,6 +3,7 @@ Implementation of Perceptron Algorithm
 
 ### Before Implementation
 
+![points](https://user-images.githubusercontent.com/34116562/48570378-43c9d880-e92a-11e8-9c69-274ac7c17f85.png)
 
 
 ### After Implementation
